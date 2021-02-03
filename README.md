@@ -1,10 +1,14 @@
-Install
-Install instructions: https://developers.google.com/earth-engine/guides/python_install
+# Description
+This project uses the google earth engine to take actual fire data and display it visually on a google earth map. 
 
-pip3 install earthengine-api
-pip3 install IPython
-pip3 install jupyterlab
-pip3 install folium
+# Installation instructions
+- https://developers.google.com/earth-engine/guides/python_install
+
+requires: 
+- pip3 install earthengine-api
+- pip3 install IPython
+- pip3 install jupyterlab
+- pip3 install folium
 
 
 Note, this project will require a google earth account to run
